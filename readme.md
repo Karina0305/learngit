@@ -10,5 +10,10 @@ Git tracks changes.
 ```
 
 ```plain
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+
+>>>>>>> feature1
 ```
