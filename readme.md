@@ -8,3 +8,5 @@ Git has a mutable index called stage.
 ```plain
 Git tracks changes.
 ```
+
+create a new branch is quick;
